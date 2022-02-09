@@ -17,7 +17,7 @@ public class LevelFour extends AppCompatActivity {
     Timer timer;
     LevelQuestions levelQ = new LevelQuestions();
     CountDownTimer countDownTimer;
-    private static final long COUNTDOWN_IN_MILLIS = 11000;
+    private static final long COUNTDOWN_IN_MILLIS = 10000;
     public long timeLeftInMillis;
 
     @Override
