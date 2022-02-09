@@ -160,7 +160,7 @@ public class QuizDbHelper extends SQLiteOpenHelper {
         addQuestion(q5,  QTthree.TABLE_NAME3);
         Question q6 = new Question("Which title of a “Shake, Rattle and Roll” episode has been used twice?", "Yaya", "Aswang", "Impakto", "Madre" );
         addQuestion(q6,  QTthree.TABLE_NAME3);
-        Question q7 = new Question( "She is also known as Asia’s Songbird.", "Regine Velasquez", "Angeline Quinto", "Lea Salonga", "Sarah Geronimo" );
+        Question q7 = new Question( "She is also known as Asias Songbird.", "Regine Velasquez", "Angeline Quinto", "Lea Salonga", "Sarah Geronimo" );
         addQuestion(q7,  QTthree.TABLE_NAME3);
         Question q8 = new Question("It is the longest-running noontime variety show in the Philippines.", "Eat Bulaga!", " Wowowin", " It’s Showtime!", " Starstruck"  );
         addQuestion(q8,  QTthree.TABLE_NAME3);
